@@ -1,0 +1,13 @@
+local set = vim.opt
+set.number = true
+set.cursorline = true
+set.shiftwidth = 2
+set.swapfile = false
+set.tabstop = 2
+set.termguicolors = true
+set.ttimeoutlen = 0
+set.wrap = true
+set.ls = 0
+set.ch = 0
+set.scrolloff = 8
+set.relativenumber = true

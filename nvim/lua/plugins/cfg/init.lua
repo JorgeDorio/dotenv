@@ -1,0 +1,7 @@
+require('plugins.cfg.telescope')
+require('plugins.cfg.cmp')
+require('plugins.cfg.comment')
+require('plugins.cfg.neotree')
+require('plugins.cfg.startup')
+require('plugins.cfg.autopairs')
+-- require('plugins.cfg.silicon')
